@@ -1,0 +1,6 @@
+.top-right-corner{
+    position: absolute;
+    top:5px;
+    right: 5px;
+    padding: 4px 10px;
+}
